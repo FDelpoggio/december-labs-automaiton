@@ -1,0 +1,19 @@
+{
+  "name": "december-labs-automaiton",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "tests": "nightwatch",
+    "test:getintouch": "nightwatch test/form.test.js",
+    "test:austin": "nightwatch test/austin.test.js"
+  },
+  "keywords": [],
+  "author": "Faustino Delpoggio",
+  "license": "ISC",
+  "devDependencies": {
+    "@nightwatch/selenium-server": "^4.5.0",
+    "chromedriver": "^113.0.0",
+    "geckodriver": "^4.0.0",
+    "nightwatch": "^2.6.21"
+  }
+}
