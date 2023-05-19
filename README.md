@@ -26,4 +26,4 @@ This test checks that the December lab page loads correctly by validating the ti
 
 #### Fourth part - Get in touch popup
 
-This test checks that the popup is shown by clicking the get in touch button, and if we click the send button without filling in the required fields, they have a red border. Then, if we fill the fields, they won't have a red border.
+This test checks that the popup is shown by clicking the get in touch button, and if we click the send button without filling in the required fields, these have a red border. Then, if we fill the fields, they won't have a red border.
